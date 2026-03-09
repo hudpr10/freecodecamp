@@ -8,5 +8,5 @@ function sumArray(numbers) {
   return numbers.reduce((x, y) => x + y);
 }
 
-sumArray([1, 2, 3, 4, 5]);4
+sumArray([1, 2, 3, 4, 5]);
 // Return: 15
